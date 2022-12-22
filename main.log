@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.23)  23 DEC 2022 02:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.23)  23 DEC 2022 03:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"y:/TUGAS AKHIR/proposal-ta-its/main.tex"
-(y:/TUGAS AKHIR/proposal-ta-its/main.tex
+**c:/Users/user/OneDrive/Documents/GitHub/proposal-ta-its/main.tex
+(c:/Users/user/OneDrive/Documents/GitHub/proposal-ta-its/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2022-12-17> (c:/texlive/2022/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
@@ -1068,12 +1068,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  22494 strings out of 476093
- 392686 string characters out of 5795582
+ 392759 string characters out of 5795582
  1867787 words of memory out of 5000000
  42466 multiletter control sequences out of 15000+600000
  556029 words of font info for 120 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 72i,12n,77p,1162b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,77p,1185b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txex.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on main.pdf (17 pages, 297830 bytes).
 PDF statistics:
