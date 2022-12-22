@@ -1,8 +1,8 @@
-PWD y:/TUGAS AKHIR/proposal-ta-its
+PWD c:/Users/user/OneDrive/Documents/GitHub/proposal-ta-its
 INPUT c:/texlive/2022/texmf.cnf
 INPUT c:/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT y:/TUGAS AKHIR/proposal-ta-its/main.tex
+INPUT c:/Users/user/OneDrive/Documents/GitHub/proposal-ta-its/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2022/texmf-dist/tex/latex/base/report.cls
 INPUT c:/texlive/2022/texmf-dist/tex/latex/base/report.cls
