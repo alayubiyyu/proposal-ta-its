@@ -133,6 +133,43 @@
       \field{pages}{585\bibrangedash 595}
       \range{pages}{11}
     \endentry
+    \entry{Dey2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cdbe375f4349622904210be2071a2806}{%
+           family={Dey},
+           familyi={D\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=562329d35461b8ad79d7293e6f6f7164}{%
+           family={Salem},
+           familyi={S\bibinitperiod},
+           given={Fathi\bibnamedelima M},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \strng{fullhash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \strng{bibnamehash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \strng{authorbibnamehash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \strng{authornamehash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \strng{authorfullhash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2017 IEEE 60th international midwest symposium on circuits and systems (MWSCAS)}
+      \field{title}{Gate-variants of gated recurrent unit (GRU) neural networks}
+      \field{year}{2017}
+      \field{pages}{1597\bibrangedash 1600}
+      \range{pages}{4}
+    \endentry
     \entry{Jin2011}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=4c1ac1e9b0a63a1a80ed9980cd16ca99}{%
@@ -316,6 +353,43 @@
       \field{year}{2003}
       \field{pages}{166\bibrangedash 166}
       \range{pages}{1}
+    \endentry
+    \entry{Sak2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1e51a33a07fc03da28d53f8027957dc0}{%
+           family={Sak},
+           familyi={S\bibinitperiod},
+           given={Hasim},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=211e54ca76df5d8c1de6957d48792545}{%
+           family={Senior},
+           familyi={S\bibinitperiod},
+           given={Andrew\bibnamedelima W},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a00ff8a06880d446a0a3ed9dc23360f}{%
+           family={Beaufays},
+           familyi={B\bibinitperiod},
+           given={Françoise},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1369fa1609c36fd89ccfbc21ebbdae1}
+      \strng{fullhash}{4b78edd5aa8a0f670ca53073b36e5c0d}
+      \strng{bibnamehash}{4b78edd5aa8a0f670ca53073b36e5c0d}
+      \strng{authorbibnamehash}{4b78edd5aa8a0f670ca53073b36e5c0d}
+      \strng{authornamehash}{e1369fa1609c36fd89ccfbc21ebbdae1}
+      \strng{authorfullhash}{4b78edd5aa8a0f670ca53073b36e5c0d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Long short-term memory recurrent neural network architectures for large scale acoustic modeling}
+      \field{year}{2014}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
@@ -433,6 +507,43 @@
       \field{pages}{585\bibrangedash 595}
       \range{pages}{11}
     \endentry
+    \entry{Dey2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cdbe375f4349622904210be2071a2806}{%
+           family={Dey},
+           familyi={D\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=562329d35461b8ad79d7293e6f6f7164}{%
+           family={Salem},
+           familyi={S\bibinitperiod},
+           given={Fathi\bibnamedelima M},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \strng{fullhash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \strng{bibnamehash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \strng{authorbibnamehash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \strng{authornamehash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \strng{authorfullhash}{0ffcc0752db5a42176e68e794ddc16f3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2017 IEEE 60th international midwest symposium on circuits and systems (MWSCAS)}
+      \field{title}{Gate-variants of gated recurrent unit (GRU) neural networks}
+      \field{year}{2017}
+      \field{pages}{1597\bibrangedash 1600}
+      \range{pages}{4}
+    \endentry
     \entry{Jin2011}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=4c1ac1e9b0a63a1a80ed9980cd16ca99}{%
@@ -616,6 +727,43 @@
       \field{year}{2003}
       \field{pages}{166\bibrangedash 166}
       \range{pages}{1}
+    \endentry
+    \entry{Sak2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1e51a33a07fc03da28d53f8027957dc0}{%
+           family={Sak},
+           familyi={S\bibinitperiod},
+           given={Hasim},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=211e54ca76df5d8c1de6957d48792545}{%
+           family={Senior},
+           familyi={S\bibinitperiod},
+           given={Andrew\bibnamedelima W},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a00ff8a06880d446a0a3ed9dc23360f}{%
+           family={Beaufays},
+           familyi={B\bibinitperiod},
+           given={Françoise},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1369fa1609c36fd89ccfbc21ebbdae1}
+      \strng{fullhash}{4b78edd5aa8a0f670ca53073b36e5c0d}
+      \strng{bibnamehash}{4b78edd5aa8a0f670ca53073b36e5c0d}
+      \strng{authorbibnamehash}{4b78edd5aa8a0f670ca53073b36e5c0d}
+      \strng{authornamehash}{e1369fa1609c36fd89ccfbc21ebbdae1}
+      \strng{authorfullhash}{4b78edd5aa8a0f670ca53073b36e5c0d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Long short-term memory recurrent neural network architectures for large scale acoustic modeling}
+      \field{year}{2014}
     \endentry
   \enddatalist
   \missing{SpaceXBlueprint}

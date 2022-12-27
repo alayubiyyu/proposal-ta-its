@@ -49,26 +49,37 @@ Untuk melakukan \emph{Dead Reckoning}, kalian memerlukan informasi berikut: [1] 
   \label{fig:DR}
 \end{figure}
 
-\subsection{Convolutional Neural Network (CNN)}
+\subsection{Recurrent Neural Network (RNN)}
 
-Jaringan saraf convolutional (CNN) adalah jenis jaringan saraf tiruan yang dirancang khusus untuk pengenalan dan pemrosesan gambar. Itu terdiri dari beberapa lapisan neuron buatan 
-(juga dikenal sebagai "unit" atau "node"), yang masing-masing bertanggung jawab untuk mempelajari fitur atau atribut tertentu dari data input. Salah satu fitur utama \emph{Convolutional Neural Network} adalah penggunaan
-lapisan konvolusional, yang bertanggung jawab untuk mempelajari fitur data masukan secara otomatis. Lapisan ini menggunakan satu set filter, juga dikenal sebagai kernel atau bobot, 
-untuk mendeteksi pola dalam data. Filter diterapkan ke data input menggunakan proses yang disebut konvolusi, yang melibatkan menggeser filter melintasi data input dan melakukan perkalian 
-berdasarkan elemen dengan elemen dalam input. Keluaran yang dihasilkan disebut peta fitur, yang merepresentasikan keberadaan fitur tertentu dalam data masukan. \emph{Convolutional Neural Network} dapat dilatih untuk 
-mengenali pola dan mengklasifikasikan gambar dengan menyesuaikan bobot filter di lapisan konvolusional. Mereka biasanya digunakan dalam tugas klasifikasi gambar, seperti mengenali objek 
-dalam gambar atau mengklasifikasikan gambar ke dalam kategori yang berbeda. Mereka juga berhasil dalam tugas-tugas lain seperti pemrosesan bahasa alami dan pengenalan suara.
+Jaringan saraf berulang (RNN) adalah jenis jaringan saraf tiruan yang sangat cocok untuk memproses data berurutan, seperti teks, audio, atau data deret waktu. \emph{Recurrent Neural Network} dirancang untuk mengingat
+input sebelumnya, memungkinkan mereka untuk memahami konteks dan menggunakan pemahaman tersebut untuk memproses input baru. \emph{Recurrent Neural Network} terdiri dari unit yang disebut "sel" yang memproses data 
+input dan meneruskannya ke sel berikutnya dalam jaringan. Sel-sel dalam RNN terhubung dalam satu lingkaran, yang memungkinkan mereka memproses data dalam beberapa langkah waktu. Hal ini membuat RNN sangat berguna 
+untuk tugas-tugas seperti terjemahan bahasa atau pengenalan suara, di mana arti sebuah kata atau frase tergantung pada konteks yang diberikan oleh kata atau frase yang datang sebelumnya. Ada beberapa jenis \emph{Recurrent Neural Network}, 
+termasuk jaringan \emph{long Short-term Memory} (LSTM) dan \emph{Gated Recurrent Units} (GRU). Jaringan LSTM dan GRU dirancang untuk mengatasi masalah hilangnya dan meledaknya gradien yang dapat terjadi saat melatih
+\emph{Recurrent Neural Network} tradisional pada urutan yang panjang. Masalah ini terjadi karena RNN tradisional kesulitan mempertahankan informasi dari langkah waktu sebelumnya saat mereka memproses data melalui 
+beberapa langkah waktu. Jaringan LSTM dan GRU keduanya menggunakan mekanisme khusus untuk menyimpan informasi ini dengan lebih baik dan membuatnya lebih mudah untuk melatih \emph{Recurrent Neural Network} pada urutan yang panjang.
 
-Faktanya, \emph{Convolutional Neural Network} memiliki lebih banyak opsi yang menyediakan banyak peluang untuk bahkan mengurangi parameter semakin banyak, dan pada saat yang sama 
-mengurangi beberapa efek samping. Salah satu opsi ini adalah hanya berasumsi bahwa node layer berikutnya memiliki banyak tumpang tindih dengan tetangga mereka dengan melihat daerah.
-Kita bisa memanipulasi tumpang tindih dengan mengendalikan langkah, menunjukkangambar 7x7 yang diberikan. Jika kita memindahkan filter satu node setiap kali, kita hanya dapat 
-memiliki output 5x5. Perhatikan bahwa output dari tiga matriks kiri, memiliki tumpang tindih (dan tiga tengah satu bersama-sama dan tiga yang benar juga). Namun, jika kita bergerak
-dan buat setiap langkah 2, maka outputnya akan menjadi 3x3. Meletakkan sederhananya, tidak hanya tumpang tindih, tetapi juga ukuran output akan menjadi berkurang. Untuk melakukan 
-\emph{Dead Reckoning} menggunakan \emph{Convolutional Neural Network}, jaringan perlu dilatih pada kumpulan data input yang terdiri dari posisi kendaraan sebelumnya dan data sensorik yang dikumpulkan selama periode waktu 
-tertentu, dan label output yang sesuai yang mewakili posisi kendaraan saat ini. \emph{Convolutional Neural Network}  kemudian akan dapat membuat prediksi tentang posisi kendaraan saat ini berdasarkan data input baru 
-yang terdiri dari posisi kendaraan sebelumnya dan data sensorik yang dikumpulkan pada titik waktu tertentu.Ada banyak aplikasi potensial untuk menggunakan \emph{Convolutional Neural Network}  untuk perhitungan mati, 
-termasuk kendaraan otonom, drone, dan robot seluler lainnya.Kemampuan untuk secara akurat memperkirakan posisi kendaraan saat ini berdasarkan posisi sebelumnya dan data sensorik dapat 
-sangat penting untuk navigasi dan lokalisasi di lingkungan di mana sinyal GPS mungkin tidak tersedia atau tidak dapat diandalkan \parencite{Albawi2017}. 
+Jaringan saraf berulang memori jangka pendek (LSTM) adalah jenis jaringan saraf tiruan yang sangat cocok untuk memproses data berurutan dan mengingat informasi dalam jangka waktu yang lama. varian dari jenis jaringan
+saraf berulang (RNN) yang lebih umum, yang dirancang untuk memproses data berurutan dengan memproses data selama beberapa langkah waktu. \emph{long Short-term Memory} (LSTM) sangat berguna untuk tugas-tugas seperti terjemahan bahasa atau 
+pengenalan ucapan, di mana arti kata atau frasa bergantung pada konteks yang diberikan oleh kata atau frasa sebelumnya. \emph{long Short-term Memory} (LSTM) juga digunakan dalam aplikasi lain yang penting untuk mengingat informasi dalam 
+jangka waktu yang lama, seperti prediksi pasar saham atau terjemahan mesin. Salah satu fitur utama \emph{long Short-term Memory} (LSTM) adalah penggunaan "gerbang", yang digunakan untuk mengontrol aliran informasi 
+melalui jaringan. Gerbang dalam jaringan \emph{long Short-term Memory} (LSTM) memungkinkannya menyimpan atau melupakan informasi secara selektif, dan memperbarui keadaan internalnya berdasarkan input yang diterimanya.
+Hal ini membuat \emph{long Short-term Memory} (LSTM) sangat efektif dalam belajar dari rangkaian data yang panjang dan mengingat informasi penting dalam jangka waktu yang lama. \parencite{Sak2014}
+
+\emph{Gated Recurrent Units} (GRU) adalah jenis jaringan syaraf tiruan yang cocok untuk memproses data sekuensial, seperti teks, audio, atau data deret waktu. Varian dari jenis jaringan saraf berulang (RNN) yang 
+lebih umum, yang dirancang untuk memproses data berurutan dengan memproses data dalam beberapa langkah waktu. \emph{Gated Recurrent Units} (GRU) terdiri dari unit-unit yang disebut "sel", yang memproses data input 
+dan meneruskannya ke sel berikutnya dalam jaringan. Sel-sel dalam \emph{Gated Recurrent Units} (GRU) terhubung dalam satu lingkaran, yang memungkinkan mereka memproses data dalam beberapa langkah waktu dan menyimpan 
+informasi dari langkah waktu sebelumnya. \emph{Gated Recurrent Units} (GRU) sangat berguna untuk tugas-tugas seperti terjemahan bahasa atau pengenalan ucapan, di mana arti kata atau frasa bergantung pada konteks 
+yang disediakan oleh kata atau frasa sebelumnya. GRU juga digunakan dalam aplikasi lain yang penting untuk mengingat informasi dalam jangka waktu yang lama, seperti prediksi pasar saham atau terjemahan mesin. Salah 
+satu fitur utama \emph{Gated Recurrent Units} (GRU) adalah penggunaan "gerbang", yang digunakan untuk mengontrol aliran informasi melalui jaringan. Gerbang di \emph{Gated Recurrent Units} (GRU) memungkinkannya 
+menyimpan atau melupakan informasi secara selektif, dan untuk memperbarui status internalnya berdasarkan input yang diterimanya. Hal ini membuat \emph{Gated Recurrent Units} (GRU) sangat efektif dalam belajar dari 
+rangkaian data yang panjang dan mengingat informasi penting dalam jangka waktu yang lama. \parencite{Dey2017}
+
+Untuk melakukan \emph{Dead Reckoning} menggunakan \emph{Convolutional Neural Network}, jaringan perlu dilatih pada kumpulan data input yang terdiri dari posisi kendaraan sebelumnya dan data sensorik yang dikumpulkan 
+selama periode waktu tertentu, dan label output yang sesuai yang mewakili posisi kendaraan saat ini. \emph{Convolutional Neural Network}  kemudian akan dapat membuat prediksi tentang posisi kendaraan saat ini 
+berdasarkan data input baru yang terdiri dari posisi kendaraan sebelumnya dan data sensorik yang dikumpulkan pada titik waktu tertentu.Ada banyak aplikasi potensial untuk menggunakan \emph{Convolutional Neural Network}  
+untuk perhitungan mati, termasuk kendaraan otonom, drone, dan robot seluler lainnya.Kemampuan untuk secara akurat memperkirakan posisi kendaraan saat ini berdasarkan posisi sebelumnya dan data sensorik dapat sangat 
+penting untuk navigasi dan lokalisasi di lingkungan di mana sinyal GPS mungkin tidak tersedia atau tidak dapat diandalkan \parencite{Albawi2017}. 
 
 \subsection{Accelerometers}
 

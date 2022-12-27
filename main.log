@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.23)  27 DEC 2022 15:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.23)  27 DEC 2022 16:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1063,23 +1063,18 @@ File: gambar/Dead-reckoning-INS.png Graphic file (type png)
 <use gambar/Dead-reckoning-INS.png>
 Package pdftex.def Info: gambar/Dead-reckoning-INS.png  used on input line 45.
 (pdftex.def)             Requested size: 348.24785pt x 293.36832pt.
-
-Overfull \hbox (4.39493pt too wide) in paragraph at lines 54--61
-[]\OT1/txr/m/n/12 Jaringan saraf con-vo-lu-tional (CNN) adalah je-nis jaringan saraf tiruan yang di-ran-cang khusus
- []
-
-[4 <./gambar/Dead-reckoning-INS.png>]
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 86.
+ [4 <./gambar/Dead-reckoning-INS.png>] [5]
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 97.
  (c:/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
-) [5]
-Overfull \hbox (5.96394pt too wide) in paragraph at lines 100--108
+)
+Overfull \hbox (5.96394pt too wide) in paragraph at lines 111--119
 \OT1/txr/m/n/12 Ada be-ber-apa je-nis mag-ne-tome-ter, ter-ma-suk flux-gate, efek hall, dan mag-ne-tome-ter yang dipompa
  []
 
 [6]) [7] (./konten/3-metodologi.tex
 Chapter 3.
-<gambar/blueprint.jpg, id=249, 614.295pt x 438.6789pt>
+<gambar/blueprint.jpg, id=253, 614.295pt x 438.6789pt>
 File: gambar/blueprint.jpg Graphic file (type jpg)
 <use gambar/blueprint.jpg>
 Package pdftex.def Info: gambar/blueprint.jpg  used on input line 12.
@@ -1090,9 +1085,9 @@ LaTeX Warning: Citation 'SpaceXBlueprint' on page 8 undefined on input line 14.
 
 LaTeX Warning: Citation 'SpaceXBlueprint' on page 8 undefined on input line 14.
 
-[8
+) [8
 
- <./gambar/blueprint.jpg>]) [9] (./konten/4-lainnya.tex
+ <./gambar/blueprint.jpg>] [9] (./konten/4-lainnya.tex
 Chapter 4.
 ) [10
 
@@ -1100,24 +1095,24 @@ Chapter 4.
 
 ] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E43E7422BF84A843BB5434E04DEDB3B3;4990.
+(rerunfilecheck)             Checksum: 314B49DFD6226B17E07872F0B205CAD1;4970.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22584 strings out of 476093
- 394722 string characters out of 5795582
- 1867787 words of memory out of 5000000
- 42537 multiletter control sequences out of 15000+600000
+ 22598 strings out of 476093
+ 395128 string characters out of 5795582
+ 1870787 words of memory out of 5000000
+ 42549 multiletter control sequences out of 15000+600000
  555272 words of font info for 119 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  72i,12n,77p,1185b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (21 pages, 544743 bytes).
+Output written on main.pdf (21 pages, 545845 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 279 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 334 PDF objects out of 1000 (max. 8388607)
+ 283 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
  240 words of extra memory for PDF output out of 10000 (max. 10000000)
 

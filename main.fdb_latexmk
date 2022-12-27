@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1672129639 "main.bcf" "main.bbl" "main" 1672129834 0
-  "main.bcf" 1672129834 125466 e9028b2d5a811679cb892bbd1f4f9968 "pdflatex"
-  "pustaka/pustaka.bib" 1672129638 2749 c78a460b7c8e379ebb770e4aedbb7a57 ""
+["biber main"] 1672131796 "main.bcf" "main.bbl" "main" 1672131815 0
+  "main.bcf" 1672131814 125592 1f4cef0d9a5882cccfd62522fe5a24ea "pdflatex"
+  "pustaka/pustaka.bib" 1672131763 3274 61aefa4bd7f3acfccdd228b75d136e35 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1672129829 "c:/Users/user/OneDrive/Documents/GitHub/proposal-ta-its/main.tex" "main.pdf" "main" 1672129834 0
+["pdflatex"] 1672131810 "c:/Users/user/OneDrive/Documents/GitHub/proposal-ta-its/main.tex" "main.pdf" "main" 1672131815 0
   "c:/Users/user/OneDrive/Documents/GitHub/proposal-ta-its/main.tex" 1671741127 5126 977ef0594391de9eb61acba044ef402d ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1671715334 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1671717141 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -166,21 +166,21 @@
   "gambar/Dead-reckoning-INS.png" 1672123668 248332 a684ecf01cbfed5e85570750ad7c5824 ""
   "gambar/blueprint.jpg" 1671741127 110878 3882f37cf2c1fd34e9eb805a94976742 ""
   "konten/1-pendahuluan.tex" 1672122727 4776 69b83e7e44701993f14fff56a10f9dea ""
-  "konten/2-tinjauan-pustaka.tex" 1672129828 14855 aac0022aeb4133ad6eb0b80b750822d3 ""
-  "konten/3-metodologi.tex" 1671741127 1898 f28c2058beaa82c65ba8120ed2043517 ""
+  "konten/2-tinjauan-pustaka.tex" 1672131794 17112 9833a140e52eb1745017856d0d7017aa ""
+  "konten/3-metodologi.tex" 1672130088 1875 be268b64c59d5337d60034d52dd85dd9 ""
   "konten/4-lainnya.tex" 1671741127 221 5eab8e71008af6eac97e2d44f0a577ce ""
   "lainnya/abstrak-en.tex" 1672097139 730 d1271221734fee2fa0db2df119057677 ""
   "lainnya/abstrak.tex" 1672097048 795 e2b10ec1d65938d08f1e795c1e4a55ca ""
   "lainnya/lembar-pengesahan-en.tex" 1671757566 2540 ab53b146f27cd6926949bd403ffa0b10 ""
   "lainnya/lembar-pengesahan.tex" 1671757491 2511 42f1df673379dddffd7fee168bf3627f ""
-  "main.aux" 1672129834 7369 ada2314adc86dd06b38b05643045167b "pdflatex"
-  "main.bbl" 1672129643 25522 42aa828a76d63842e30651ee0a57a665 "biber main"
-  "main.lof" 1672129834 460 57b3049c57c142e8c033d901b01997b9 "pdflatex"
-  "main.lot" 1672129834 179 9c8316c45b8b94c5b2c6098c05ab27d5 "pdflatex"
-  "main.out" 1672129834 4990 e43e7422bf84a843bb5434e04dedb3b3 "pdflatex"
-  "main.run.xml" 1672129834 2432 d86e3c911a3ecb27bc3d70589f12457d "pdflatex"
+  "main.aux" 1672131814 7797 60f21d4a8beb6f3314cb12da2b338bea "pdflatex"
+  "main.bbl" 1672131801 31930 8ef81db3d62db9ad52c79291e687eb10 "biber main"
+  "main.lof" 1672131814 460 57b3049c57c142e8c033d901b01997b9 "pdflatex"
+  "main.lot" 1672131814 179 196c9baab7957d5491ba0d57b251e4bb "pdflatex"
+  "main.out" 1672131814 4970 314b49dfd6226b17e07872f0b205cad1 "pdflatex"
+  "main.run.xml" 1672131814 2432 d86e3c911a3ecb27bc3d70589f12457d "pdflatex"
   "main.tex" 1671741127 5126 977ef0594391de9eb61acba044ef402d ""
-  "main.toc" 1672129834 2208 a4382dcc51792c734ace3822ffe1c8ee "pdflatex"
+  "main.toc" 1672131814 2204 7313b2cb7bcd647b498fe4182229069e "pdflatex"
   "pustaka/tanda-hubung.tex" 1671741127 116 7270e6d97a59efbb44ebe004f6be32ee ""
   "sampul/gambar/sampul-luar-tipis.png" 1671741127 81872 ab3c1cc3a1f4eaae1870a63859862634 ""
   "sampul/konten-en.tex" 1671756527 1245 2e147aff218c5e702ac38f94034ab134 ""
