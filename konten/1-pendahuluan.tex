@@ -2,26 +2,71 @@
 
 \section{Latar Belakang}
 
-% Ubah paragraf-paragraf berikut sesuai dengan latar belakang dari tugas akhir
-Pesatnya perkembangan roket yang merupakan \lipsum[2]
+% Ubah paragraf-paragraf berikut sesuai dengan LATAR BELAKANG dari tugas akhir
+Saat ini metode penentuan posisi suatu titik di permukaan bumi mengalami kemajuan teknologi.
+Hal tersebut ditandai dengan ketersediaan peralatan alat ukur yang dilengkapi dengan teknologi digital terkini.
+Salah satu metode penentuan posisi suatu titik di permukaan bumi yaitu, dengan menggunakan \emph{Global Position System} (GPS).
+Nama formalnya adalah NAVstar GPS, kependekan dari \emph{"NAVigation Satellite Timing and Ranging Global Positioning System"} (Abidin, 2007).
+GPS secara garis besar terdiri dari dua tipe yaitu tipe navigasi dan tipe geodetik. Perangkat GPS mengandalkan penerimaan sinyal dari setidaknya empat satelit.
+Jika mereka terhubung hanya pada tiga satelit, maka posisinya tidak sepenuhnya akurat. 
+Massalah dapat terjadi ketika rintangan seperti dinding, bangunan, gedung pencakar langit dan pepohonan yang menghalangi sinyal.
+Kondisi atmosfer yang ekstrem seperti badai geomagnetik juga dapat menyebabkan masalah. Selain itu, teknologi pemetaan yang digunakan berrsama dengan \emph{Global Position System}
+mungkin tidak akurat dan menyebabkan kesalahan dalam bernavigasi.
 
-\lipsum[3]
+\emph{Dead Reckoning} secara bertahap mengintegrasi jarak tempuh dan arah perjalanan relatif ke lokasi awal yang diketahui.
+Arah kendaraan biasanya ditentukan oleh kompas magnetik, dan jarak yang ditempuh dihitung berdasarkan waktu tempuh dengan kecepatan kendaraan. 
+Namun, dalam navigasi berbasis darat modern, berbagai perangkat sensor dapat digunakan seperti perhitungan perputaran roda, giroskop, dan unit pengukuran inersia (IMU).
+Kelemahan umum dari \emph{Dead Reckoning} bahwa kesalahan estimasi meningkat dengan jarak ke posisi awal yang diketahui, sehingga diperlukan pembaruan yang sering dengan posisi tetap.
+Biasanya \emph{Dead Reckoning} dapat digunakan sebagai back-up jika sistem navigasi utama tidak tersedia atau tidak dapat digunakan.
+Dengan menggunakan \emph{Deep Learning}, sistem \emph{Dead Reckoning} dapat belajar dari data yang telah dikumpulkan sebelumnya dan menggunakannya untuk memprediksi posisi saat ini dengan lebih akurat.
+Diusulkan penelitian yang berjudul “Pengembangan Dead-Reckoning Berbasis Deep Learning Untuk Navigasi Jalan Dengan Sensor Berbiaya Rendah dan Mikrokontroler STM”.
 
 \section{Rumusan Masalah}
 
-% Ubah paragraf berikut sesuai dengan rumusan masalah dari tugas akhir
-Berdasarkan hal yang telah dipaparkan di latar belakang, \lipsum[4]
+% Ubah paragraf berikut sesuai dengan RUMUSAN MASALAH dari tugas akhir
+Berdasarkan latar belakang diatas, penulis dapat merumuskan beberapa masalah penting sebagai berikut,
+
+1. Bagaimana cara mengatasi \emph{Pedestrian Navigation} pada hutan dan goa yang tidak bisa menggunakan \emph{Global Position System}?
+
+2. Bagaimana penerapan penggunaan \emph{Deep Learning} pada \emph{Computer-on-a-Chip}?
+
+3. \emph{Noise Drifting} di sensor \emph{Inertial Measurement Unit} (IMU) yang tergolong masih besar.
 
 \section{Batasan Masalah atau Ruang Lingkup}
 
-\lipsum[6]
+% Ubah paragraf berikut sesuai dengan BATASAN MASALAH dari tugas akhir
+Supaya memperoleh hasil yang maksimal mengenai masalah yang ada dalam penelitian dan mengingat keterbatasan yang ada juga,
+maka penulis akan memberikan batasan sebagai berikut,
+
+1. Pengumpulan data diruang terbuka, ruang lingkup disekitar kawasan integritas Institut Teknologi Sepuluh Nopember, Surabaya, Jawa Timur.
+
+2. Menggunakan orde \emph{International System of Units} (SI) satuan Meter pada perhitungan panjang atau jarak.
+
+3. Alat dikalibrasi dengan \emph{Global Position System} saat digunakan.
+
+4. Navigasi dilakukan pada bidang Dua Dimensi (2D).
 
 \section{Tujuan}
 
-% Ubah paragraf berikut sesuai dengan tujuan penelitian dari tugas akhir
-Tujuan dari penelitian ini adalah \lipsum[7][1-14]
+% Ubah paragraf berikut sesuai dengan TUJUAN PENELITIAN dari tugas akhir
+Tujuan sejalan dengan rumusan masalah diatas, laporan ini disusun dengan tujuan untuk mendeskripsikan:
+
+1. Untuk membuat sistem navigasi untuk di hutan dan goa berbasis \emph{Inertial Measurement Unit} (IMU).
+
+2. Untuk membandingkan hasil tingkat akurasi dari penggunaan \emph{Global Position System} (GPS) dengan 
+gabungan penggunaan metode \emph{Dead Reckoning}.
+
+3. Untuk membuat model pengurang noise untuk \emph{Inertial Measurement Unit} (IMU).
 
 \section{Manfaat}
 
-% Ubah paragraf berikut sesuai dengan tujuan penelitian dari tugas akhir
-Manfaat dari penelitian ini adalah \lipsum[8][1-14]
+% Ubah paragraf berikut sesuai dengan MANFAAT dari tugas akhir
+Secara teoretis penelitian ini berguna sebagai pengembangan konsep materi atau ilmu dari beberapa mata kuliah yang didapatkan selama perkuliahan, 
+dan Secara praktis laporan tugas akhir ini diharapkan dapat bermanfaat seperti,
+
+1. Meningkatkan kebermanfaatan mikrokontroller di Indonesia.
+
+2. Memberikan pengetahuan lebih kepada masyarakat luas tentang manfaat \emph{Dead Reckoning}.
+
+3. Meminimalisasi tingkat tersesat yang ditimbulkan akibat pemakaian 
+\emph{Global Position System} (GPS) pada lokasi susah sinyal.
