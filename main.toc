@@ -27,4 +27,4 @@
 \contentsline {chapter}{\numberline {4}HASIL YANG DIHARAPKAN}{11}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Hasil yang Diharapkan dari Penelitian}{11}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Hasil Pendahuluan}{11}{section.4.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{12}{chapter*.6}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{12}{chapter*.7}%

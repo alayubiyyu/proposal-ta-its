@@ -1090,6 +1090,11 @@ INPUT ./konten/4-lainnya.tex
 INPUT konten/4-lainnya.tex
 INPUT ./konten/4-lainnya.tex
 INPUT konten/4-lainnya.tex
+INPUT ./gambar/Screenshot-2022-12-05.png
+INPUT ./gambar/Screenshot-2022-12-05.png
+INPUT gambar/Screenshot-2022-12-05.png
+INPUT ./gambar/Screenshot-2022-12-05.png
+INPUT ./gambar/Screenshot-2022-12-05.png
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
