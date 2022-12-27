@@ -16,8 +16,7 @@ pelacakan rata-rata hingga 73,7 persen, dibandingkan dengan metode pelacakan \em
 
 \subsection{AI-IMU Dead-Reckoning.}
 
-Makalah ini mengusulkan pendekatan baru untuk inersia hanya \emph{Dead Reckoning} (DR) untuk kendaraan beroda yang dibangun di atas jaringan saraf 
-dalam untuk secara dinamis mengadaptasi parameter filter Kalman. Kami telah menunjukkan fakta-fakta berikut. Dimungkinkan untuk mendapatkan 
+Makalah ini mengusulkan pendekatan baru untuk inersia hanya \emph{Dead Reckoning} (DR) untuk kendaraan beroda yang dibangun di atas jaringan saraf dalam untuk secara dinamis mengadaptasi parameter filter Kalman. Kami telah menunjukkan fakta-fakta berikut. Dimungkinkan untuk mendapatkan 
 hasil yang sangat akurat hanya dengan menggunakan \emph{Inertial Measurement Unit} (IMU) berbiaya sedang, berkat penggunaan filter Kalman yang menggabungkan persamaan \emph{Inertial Measurement Unit} (IMU) 
 standar dengan informasi samping tentang dinamika kendaraan beroda. Algoritma ini bersaing dengan metode berbasis visi, meskipun hanya \emph{Inertial Measurement Unit} (IMU) 
 yang digunakan (dan tidak ada satu pun sensor lain, seperti GNSS). Jaringan saraf dalam adalah alat yang ampuh untuk adaptasi dinamis parameter penyetelan filter Kalman (matriks kovarians kebisingan). 
@@ -30,6 +29,7 @@ dan aturan adaptasi rekayasa praktis sederhana dapat dikejar alih-alih yang berb
 \section{Teori Dasar}
 
 \subsection{Dead Reckoning (DR)}
+
 Perhitungan mati (\emph{Dead Reckoning}) adalah proses memperkirakan posisi saat ini dengan memproyeksikan heading dan kecepatan dari masa lalu yang diketahui posisi. 
 Heading dan kecepatan digabungkan menjadi sebuah gerakan Vektor V1 mewakili perubahan posisi dari A posisi yang diketahui, P0, ke posisi yang diperkirakan, P1. 
 Akurasi dari perkiraan ini dapat dikutip sebagai elips kepercayaan diri yang rata-rata populasinya ada di elips 95 persen dari waktu. Sumbu elips ditentukan oleh 
@@ -112,12 +112,13 @@ Terlepas dari banyak faktor pendorong, pasar kompas elektronik 3-sumbu diperkira
 pengganti aplikasi serupa yang terkait dengan navigasi. Tidak adanya perangkat keras tambahan untuk e-compass atau kompas navigasi bertindak sebagai faktor penahan untuk pasar kompas 
 elektronik 3-sumbu global. Pengurangan paket sensor untuk tujuan mengintegrasikannya secara efisien ke dalam produk elektronik portabel telah secara portentous mendorong pertumbuhan 
 pasar kompas elektronik 3-sumbu dalam beberapa waktu terakhir dan akan menciptakan peluang yang signifikan untuk kompas elektronik 3-sumbu di tahun-tahun mendatang. Ada beberapa jenis 
-magnetometer, termasuk fluxgate, efek hall, dan magnetometer yang dipompa secara optik. Magnetometer Fluxgate menggunakan gulungan kawat yang dikelilingi oleh inti feromagnetik. Ketika 
+magnetometer, termasuk fluxgate, efek hall. Magnetometer Fluxgate menggunakan gulungan kawat yang dikelilingi oleh inti feromagnetik. Ketika 
 medan magnet hadir, inti termagnetisasi, yang menyebabkan perubahan resistansi kawat. Magnetometer efek hall menggunakan magnetometer tipis, konduktor datar yang diposisikan dalam medan 
 magnet. Ketika arus dilewatkan melalui konduktor, dihasilkan tegangan yang sebanding dengan kekuatan medan magnet. Magnetometer yang dipompa secara optik menggunakan laser untuk mengukur 
 penyerapan cahaya oleh spesies atom atau molekul untuk menentukan kekuatan medan magnet.
 
 \subsection{Gyroscope}
+
 Giroskop adalah perangkat yang dipasang ke bingkai dan dapat merasakan kecepatan sudut jika itu bingkai adalah rotasi. Ada beberapa kelas giroskop, tergantung pada operasi fisik dan 
 teknologi yang melibatkan. Giroskop dapat berdiri sendiri atau digunakan untuk sesuatu sistem yang kompleks, seperti Inertial Measurement Unit (IMU), gyrocompass, sistem referensi judul 
 sikap dan sistem navigasi. Untuk mengukur efek Koriolis, giroskop MEMS mengandung massa bergetar yang bergetar di sepanjang drive sumbu. Getaran sekunder diinduksi 

@@ -20,9 +20,11 @@
 \contentsline {subsection}{\numberline {2.2.5}Gyroscope}{7}{subsection.2.2.5}%
 \contentsline {chapter}{\numberline {3}METODOLOGI}{8}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Metode yang digunakan}{8}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Bahan dan peralatan yang digunakan}{8}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Urutan pelaksanaan penelitian}{8}{section.3.3}%
-\contentsline {chapter}{\numberline {4}HASIL YANG DIHARAPKAN}{10}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Hasil yang Diharapkan dari Penelitian}{10}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Hasil Pendahuluan}{10}{section.4.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{11}{chapter*.4}%
+\contentsline {section}{\numberline {3.2}Bahan dan peralatan yang digunakan}{9}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Mikrokontroller STM32}{9}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}IMU Sensor Module MPU-9255}{9}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Urutan pelaksanaan penelitian}{9}{section.3.3}%
+\contentsline {chapter}{\numberline {4}HASIL YANG DIHARAPKAN}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Hasil yang Diharapkan dari Penelitian}{11}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Hasil Pendahuluan}{11}{section.4.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{12}{chapter*.6}%

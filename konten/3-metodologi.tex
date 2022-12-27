@@ -4,25 +4,66 @@
 
 \section{Metode yang digunakan}
 
-\lipsum[11]
+% Ubah paragraf berikut sesuai dengan METODE YANG DIGUNAKAN dari tugas akhir
+% Contoh input gambar dengan format *.jpg
+\begin{figure} [ht] \centering
+  % Nama dari file gambar yang diinputkan
+  \includegraphics[scale=0.35]{gambar/RNN-3Dimensi.png}
+  % Keterangan gambar yang diinputkan
+  \caption{Pemrosesan data pada RNN untuk menghasilkan jarak yang ditempuh}
+  % Label referensi dari gambar yang diinputkan
+  \label{fig:RNN-3D}
+\end{figure}
+
+Dengan menerapkan sistem \emph{Pose and Position} dalam dua dimensi maka dari itu data yang dihasilkan pada Az dan Gz 
+tidak diperlukan karena jika dipakai dibutuhkan setidaknya tiga dimensi pada objek target. Bisa diterapkan seperti 
+gambar \ref{fig:Koef-Relatif} berikut ini:
 
 % Contoh input gambar dengan format *.jpg
 \begin{figure} [ht] \centering
   % Nama dari file gambar yang diinputkan
-  \includegraphics[scale=0.45]{gambar/blueprint.jpg}
+  \includegraphics[scale=0.55]{gambar/IMU-to-KRel-KMut.png}
   % Keterangan gambar yang diinputkan
-  \caption{\emph{Blueprint} roket yang akan diuji coba \parencite{SpaceXBlueprint}}
+  \caption{Flowchart menentukan Koef. Relatif dengan RNN}
   % Label referensi dari gambar yang diinputkan
-  \label{fig:Blueprint}
+  \label{fig:Koef-Relatif}
 \end{figure}
 
+
 % Contoh penggunaan referensi dari gambar yang diinputkan
-Pada \emph{blueprint} yang tertera di Gambar \ref{fig:Blueprint}. \lipsum[12]
+Pada \emph{flowchart} yang tertera di Gambar \ref{fig:Koef-Relatif}.  fff
 
 \section{Bahan dan peralatan yang digunakan}
 
+\subsection{Mikrokontroller STM32}
+% Ubah paragraf berikut sesuai dengan Mikrokontroller STM32 dari tugas akhir
+Mikrokontroler STM adalah rangkaian mikrokontroler yang dikembangkan dan diproduksi oleh STMicroelectronics, sebuah perusahaan semikonduktor global yang berbasis di Eropa. 
+Mikrokontroler STM banyak digunakan dalam berbagai aplikasi termasuk elektronik konsumen, otomotif, kontrol industri, dan sistem komunikasi. Biasanya diprogram menggunakan 
+bahasa pemrograman tingkat tinggi seperti C atau C++, dan dapat diprogram menggunakan berbagai alat pengembangan dan lingkungan pengembangan terintegrasi (IDE). 
+Mikrokontroller ini juga menyediakan serangkaian pustaka dan alat perangkat lunak untuk membantu pengembang membuat aplikasi untuk mikrokontroler mereka. Seri STM32 didasarkan pada inti ARM Cortex-M3 yang dirancang khusus untuk aplikasi tertanam yang membutuhkan kinerja tinggi, biaya rendah, dan konsumsi daya rendah. Ini dibagi menjadi 
+produk yang berbeda sesuai dengan arsitektur inti: Di antara mereka, seri STM32F meliputi: seri "ditingkatkan" STM32F103, seri "dasar" STM32F101, STM32F105, seri "interkoneksi" STM32F107, 
+dan seri yang ditingkatkan dengan frekuensi clock 72MHz, yang merupakan produk kinerja tertinggi di antara produk serupa. 
 
+% Contoh input gambar dengan format *.jpg
+\begin{figure} [ht] \centering
+  % Nama dari file gambar yang diinputkan
+  \includegraphics[scale=0.35]{gambar/STM32H750VBT6_Generic_Development_Board.jpg}
+  % Keterangan gambar yang diinputkan
+  \caption{ST-Microelectronics STM32H750VBT6, Arm Cortex-M7}
+  % Label referensi dari gambar yang diinputkan
+  \label{fig:STM-Board}
+\end{figure}
 
+\subsection{IMU Sensor Module MPU-9255}
+% Ubah paragraf berikut sesuai dengan SENSOR MODULE IMU dari tugas akhir
+MPU-9255 adalah \emph{Inertial Measurement Unit} (IMU) 9-sumbu yang dikembangkan oleh InvenSense, sebuah perusahaan yang berspesialisasi dalam desain dan pembuatan pelacakan gerak dan sensor 
+pencitraan. MPU-9255 adalah perangkat kecil berdaya rendah yang dapat mengukur akselerasi, laju sudut, dan medan magnet dalam tiga dimensi. Ini umumnya digunakan dalam aplikasi seperti 
+drone, robotika, realitas virtual, dan teknologi yang dapat dikenakan untuk memberikan informasi waktu nyata tentang orientasi, gerakan, dan akselerasi perangkat. 
+Untuk menggunakan MPU-9255, Anda harus menghubungkannya ke mikrokontroler atau perangkat lain yang dapat berkomunikasi dengannya menggunakan antarmuka digital seperti I2C atau SPI. 
+Nantinya kemudian perlu menulis kode untuk membaca data dari MPU-9255 dan menginterpretasikannya berdasarkan persyaratan aplikasi spesifik. InvenSense menyediakan serangkaian 
+pustaka dan alat perangkat lunak untuk membantu pengembang membuat aplikasi menggunakan MPU-9255.
+
+% Ubah paragraf berikut sesuai dengan PC/HP dari tugas akhir
 \section{Urutan pelaksanaan penelitian}
 
 % Ubah tabel berikut sesuai dengan isi dari rencana kerja
