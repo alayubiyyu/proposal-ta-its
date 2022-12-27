@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1672175080 "main.bcf" "main.bbl" "main" 1672175172 0
-  "main.bcf" 1672175172 125449 926a241dd0e2013f24f91e0fa48b7bb1 "pdflatex"
+["biber main"] 1672175080 "main.bcf" "main.bbl" "main" 1672175683 0
+  "main.bcf" 1672175683 125449 926a241dd0e2013f24f91e0fa48b7bb1 "pdflatex"
   "pustaka/pustaka.bib" 1672131763 3274 61aefa4bd7f3acfccdd228b75d136e35 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1672175166 "c:/Users/user/OneDrive/Documents/GitHub/proposal-ta-its/main.tex" "main.pdf" "main" 1672175172 0
+["pdflatex"] 1672175677 "c:/Users/user/OneDrive/Documents/GitHub/proposal-ta-its/main.tex" "main.pdf" "main" 1672175683 0
   "c:/Users/user/OneDrive/Documents/GitHub/proposal-ta-its/main.tex" 1671741127 5126 977ef0594391de9eb61acba044ef402d ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1671715334 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1671717141 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -172,18 +172,18 @@
   "konten/2-tinjauan-pustaka.tex" 1672168891 17062 d1b9656ce2b4ac89fa95aa57179a55b6 ""
   "konten/3-metodologi.tex" 1672168894 7225 f7b3933cdfba0352f3b3656ed55a4f64 ""
   "konten/4-lainnya.tex" 1672172526 1707 b6a08d2cbddf268ce0533317199f998b ""
-  "lainnya/abstrak-en.tex" 1672175164 2006 82cba995290bba3c21487f557f20d0d2 ""
-  "lainnya/abstrak.tex" 1672175002 2076 45429b5e90acd9e64b90597ddc4b43a6 ""
-  "lainnya/lembar-pengesahan-en.tex" 1672172787 2660 f0ddd546637c3e8a149397801967405b ""
-  "lainnya/lembar-pengesahan.tex" 1672172854 2631 b4e5648e6242fdb72db829b9072354b0 ""
-  "main.aux" 1672175172 8551 6195c5330aa80ecf2e9accef0866d6ab "pdflatex"
+  "lainnya/abstrak-en.tex" 1672175646 2010 d4b2eb0145e6f7cf3f8e3e7ee97efe06 ""
+  "lainnya/abstrak.tex" 1672175654 2080 0242f3c3a58f22f01dcea3a26f4727ab ""
+  "lainnya/lembar-pengesahan-en.tex" 1672175663 2664 7ed6e496269e874b14ca564ee4e8504d ""
+  "lainnya/lembar-pengesahan.tex" 1672175674 2635 776e93206d52ab455c2e8827ad111f1a ""
+  "main.aux" 1672175682 8551 6195c5330aa80ecf2e9accef0866d6ab "pdflatex"
   "main.bbl" 1672175084 31901 47dd36d1bd01bc6c114859d8e3f75fbc "biber main"
-  "main.lof" 1672175172 811 c83b1bdc26a0a36375879dd4fce0cc07 "pdflatex"
-  "main.lot" 1672175172 180 4321b34a332267d30050b024a977a412 "pdflatex"
-  "main.out" 1672175172 5407 1931f2f82b18b5489bfe8374dfb483df "pdflatex"
-  "main.run.xml" 1672175172 2432 d86e3c911a3ecb27bc3d70589f12457d "pdflatex"
+  "main.lof" 1672175683 811 c83b1bdc26a0a36375879dd4fce0cc07 "pdflatex"
+  "main.lot" 1672175683 180 4321b34a332267d30050b024a977a412 "pdflatex"
+  "main.out" 1672175683 5407 1931f2f82b18b5489bfe8374dfb483df "pdflatex"
+  "main.run.xml" 1672175683 2432 d86e3c911a3ecb27bc3d70589f12457d "pdflatex"
   "main.tex" 1671741127 5126 977ef0594391de9eb61acba044ef402d ""
-  "main.toc" 1672175172 2392 6aae1934f7670de756a86aea3c27ddbe "pdflatex"
+  "main.toc" 1672175683 2392 6aae1934f7670de756a86aea3c27ddbe "pdflatex"
   "pustaka/tanda-hubung.tex" 1671741127 116 7270e6d97a59efbb44ebe004f6be32ee ""
   "sampul/gambar/sampul-luar-tipis.png" 1671741127 81872 ab3c1cc3a1f4eaae1870a63859862634 ""
   "sampul/konten-en.tex" 1671756527 1245 2e147aff218c5e702ac38f94034ab134 ""
