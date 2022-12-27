@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.23)  27 DEC 2022 20:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.23)  28 DEC 2022 02:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1066,27 +1066,76 @@ File: gambar/RNN-3Dimensi.png Graphic file (type png)
 <use gambar/RNN-3Dimensi.png>
 Package pdftex.def Info: gambar/RNN-3Dimensi.png  used on input line 11.
 (pdftex.def)             Requested size: 211.8446pt x 116.72531pt.
-<gambar/IMU-to-KRel-KMut.png, id=269, 456.20438pt x 546.54187pt>
+<gambar/IMU-to-KRel-KMut.png, id=268, 456.20438pt x 546.54187pt>
 File: gambar/IMU-to-KRel-KMut.png Graphic file (type png)
 <use gambar/IMU-to-KRel-KMut.png>
-Package pdftex.def Info: gambar/IMU-to-KRel-KMut.png  used on input line 25.
+Package pdftex.def Info: gambar/IMU-to-KRel-KMut.png  used on input line 24.
 (pdftex.def)             Requested size: 250.91318pt x 300.59895pt.
-
-Overfull \hbox (1.06715pt too wide) in paragraph at lines 40--46
-\OT1/txr/m/n/12 Mikrokon-troler STM banyak di-gu-nakan dalam berba-gai ap-likasi ter-ma-suk elek-tronik kon-sumen,
- []
-
 [8
 
  <./gambar/RNN-3Dimensi.png> <./gambar/IMU-to-KRel-KMut.png>]
-<gambar/STM32H750VBT6_Generic_Development_Board.jpg, id=277, 462.528pt x 308.352pt>
+Overfull \hbox (1.06715pt too wide) in paragraph at lines 41--47
+\OT1/txr/m/n/12 Mikrokon-troler STM banyak di-gu-nakan dalam berba-gai ap-likasi ter-ma-suk elek-tronik kon-sumen,
+ []
+
+<gambar/STM32H750VBT6_Generic_Development_Board.jpg, id=276, 462.528pt x 308.352pt>
 File: gambar/STM32H750VBT6_Generic_Development_Board.jpg Graphic file (type jpg)
 <use gambar/STM32H750VBT6_Generic_Development_Board.jpg>
-Package pdftex.def Info: gambar/STM32H750VBT6_Generic_Development_Board.jpg  used on input line 50.
+Package pdftex.def Info: gambar/STM32H750VBT6_Generic_Development_Board.jpg  used on input line 51.
 (pdftex.def)             Requested size: 161.88722pt x 107.9248pt.
 
-Overfull \hbox (1.28392pt too wide) in paragraph at lines 59--65
+Overfull \hbox (1.28392pt too wide) in paragraph at lines 60--66
 \OT1/txr/m/n/12 menye-di-akan serangka-ian pus-taka dan alat perangkat lu-nak un-tuk mem-bantu pengem-bang mem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]|\OT1/txr/m/n/12 Perancangan alat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\OT1/txr/m/n/12 dan Pengam-bi-lan
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 91--91
+\OT1/txr/m/n/12 Pem-bu-atan struk-tur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]|\OT1/txr/m/n/12 Training, Val-i-dasi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/txr/m/n/12 dan Pen-gu-jian
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+[]|\OT1/txr/m/n/12 Penerapan model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+\OT1/txr/m/n/12 dan Pen-ganal-isaan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]|\OT1/txr/m/n/12 Perhitungan perbe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\OT1/txr/m/n/12 daan K.Relatif
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\OT1/txr/m/n/12 K.Mutlak (den-gan
  []
 
 
@@ -1108,16 +1157,16 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  22620 strings out of 476093
  395863 string characters out of 5795582
- 1866787 words of memory out of 5000000
+ 1878787 words of memory out of 5000000
  42564 multiletter control sequences out of 15000+600000
  555272 words of font info for 119 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  72i,12n,77p,1185b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (22 pages, 1180229 bytes).
+Output written on main.pdf (22 pages, 1181173 bytes).
 PDF statistics:
- 359 PDF objects out of 1000 (max. 8388607)
- 302 compressed objects within 4 object streams
+ 358 PDF objects out of 1000 (max. 8388607)
+ 301 compressed objects within 4 object streams
  63 named destinations out of 1000 (max. 500000)
  266 words of extra memory for PDF output out of 10000 (max. 10000000)
 

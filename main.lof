@@ -2,7 +2,7 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces \emph {Inertial navigation} menggunakan \emph {Dead Reckoning} \blx@tocontentsinit {0}\parencite {oxts2020-dr}\relax }}{4}{figure.caption.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Pemrosesan data pada RNN untuk menghasilkan jarak yang ditempuh\relax }}{8}{figure.caption.2}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Pemrosesan data jarak yang ditempuh pada RNN\relax }}{8}{figure.caption.2}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Flowchart menentukan Koef. Relatif dengan RNN\relax }}{8}{figure.caption.3}%
 \contentsline {figure}{\numberline {3.3}{\ignorespaces ST-Microelectronics STM32H750VBT6, Arm Cortex-M7\relax }}{9}{figure.caption.4}%
 \addvspace {10\p@ }

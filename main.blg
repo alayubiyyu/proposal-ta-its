@@ -1,21 +1,21 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'main.blg'
-[196] biber-MSWIN32:340> INFO - === 
-[251] Biber.pm:418> INFO - Reading 'main.bcf'
-[470] Biber.pm:978> INFO - Found 9 citekeys in bib section 0
-[503] Biber.pm:4401> INFO - Processing section 0
-[521] Biber.pm:4592> INFO - Looking for bibtex file 'pustaka/pustaka.bib' for section 0
-[587] bibtex.pm:1713> INFO - LaTeX decoding ...
-[612] bibtex.pm:1518> INFO - Found BibTeX data source 'pustaka/pustaka.bib'
-[767] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[767] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[767] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[767] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[806] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[807] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[807] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[807] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[830] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[850] bbl.pm:757> INFO - Output to main.bbl
-[850] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\user\AppData\Local\Temp\biber_tmp_wYDQ\edf1f315de8056cfaef35fb8874dd844_29532.utf8, line 9, warning: 359 characters of junk seen at toplevel
-[850] Biber.pm:132> INFO - WARNINGS: 1
+[179] biber-MSWIN32:340> INFO - === 
+[235] Biber.pm:418> INFO - Reading 'main.bcf'
+[518] Biber.pm:978> INFO - Found 9 citekeys in bib section 0
+[556] Biber.pm:4401> INFO - Processing section 0
+[580] Biber.pm:4592> INFO - Looking for bibtex file 'pustaka/pustaka.bib' for section 0
+[672] bibtex.pm:1713> INFO - LaTeX decoding ...
+[701] bibtex.pm:1518> INFO - Found BibTeX data source 'pustaka/pustaka.bib'
+[869] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[869] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[869] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[869] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[908] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[908] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[908] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[908] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[933] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[955] bbl.pm:757> INFO - Output to main.bbl
+[955] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\user\AppData\Local\Temp\biber_tmp_YQj5\edf1f315de8056cfaef35fb8874dd844_28144.utf8, line 9, warning: 359 characters of junk seen at toplevel
+[955] Biber.pm:132> INFO - WARNINGS: 1

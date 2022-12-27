@@ -10,14 +10,13 @@
   % Nama dari file gambar yang diinputkan
   \includegraphics[scale=0.35]{gambar/RNN-3Dimensi.png}
   % Keterangan gambar yang diinputkan
-  \caption{Pemrosesan data pada RNN untuk menghasilkan jarak yang ditempuh}
+  \caption{Pemrosesan data jarak yang ditempuh pada RNN}
   % Label referensi dari gambar yang diinputkan
   \label{fig:RNN-3D}
 \end{figure}
 
-Dengan menerapkan sistem \emph{Pose and Position} dalam dua dimensi maka dari itu data yang dihasilkan pada Az dan Gz 
-tidak diperlukan karena jika dipakai dibutuhkan setidaknya tiga dimensi pada objek target. Bisa diterapkan seperti 
-gambar \ref{fig:Koef-Relatif} berikut ini:
+Dengan menerapkan sistem \emph{Pose and Position} dalam dua dimensi (x,y) maka dari itu data yang dihasilkan pada nilai 3-Sumbu \emph{Gyroscope} 
+yang memperoleh sumbu Az dan Gz tidak diperlukan karena jika dipakai, dibutuhkan setidaknya tiga dimensi (x,y,z) pada objek target.
 
 % Contoh input gambar dengan format *.jpg
 \begin{figure} [ht] \centering
@@ -29,9 +28,11 @@ gambar \ref{fig:Koef-Relatif} berikut ini:
   \label{fig:Koef-Relatif}
 \end{figure}
 
-
 % Contoh penggunaan referensi dari gambar yang diinputkan
-Pada \emph{flowchart} yang tertera di Gambar \ref{fig:Koef-Relatif}.  fff
+Pada \emph{flowchart} yang tertera di Gambar \ref{fig:Koef-Relatif} untuk mendapatkan posisi kendaraan memerlukan beberapa tahapan, mulai dari merangkai
+seluruh alat-alat yang hendak digunakan untuk pengambilan data. Alat pengujian yang berupa mikrokontroller dengan sensor IMU dan beberapa komponen \emph{Electrical Wiring} 
+akan dipasangkan pada kendaraan bermotor, Selanjutnya persiapkan dan instalasi beberapa \emph{Software} pendukung yang dibutuhkan dalam penelitian seperti,
+kalibrasi sensor \emph{Inertial Measurement Unit} dengan \emph{Global Position System}, hingga instalasi mikrokontroller STM.  
 
 \section{Bahan dan peralatan yang digunakan}
 
@@ -79,20 +80,36 @@ pustaka dan alat perangkat lunak untuk membantu pengembang membuat aplikasi meng
     \hline
 
     % Gunakan \G untuk mengisi sel dan \w untuk mengosongkan sel
-    Pengambilan data &
-    \G & \G & \G & \G & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w \\
+    Studi pustaka &
+    \G & \G & \G & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w \\
     \hline
 
-    Pengolahan data &
+    Perancangan alat dan Pengambilan data &
+    \w & \G & \G & \G & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w \\
+    \hline
+
+    Pengolahan data dan Pembuatan struktur model &
     \w & \w & \w & \w & \G & \G & \G & \G & \w & \w & \w & \w & \w & \w & \w & \w \\
     \hline
 
-    Analisa data &
+    Training, Validasi dan Pengujian Dataset &
+    \w & \w & \w & \w & \w & \w & \G & \G & \G & \G & \w & \w & \w & \w & \w & \w \\
+    \hline
+
+    Penerapan model dan Penganalisaan hasil data &
     \w & \w & \w & \w & \w & \w & \w & \w & \G & \G & \G & \G & \w & \w & \w & \w \\
     \hline
 
+    Perhitungan perbedaan K.Relatif (tanpa GPS) dengan K.Mutlak (dengan GPS) &
+    \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \G & \G & \G & \w \\
+    \hline
+
     Evaluasi penelitian &
-    \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \G & \G & \G & \G \\
+    \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \w & \G & \G \\
+    \hline
+
+    Penyusunan laporan &
+    \G & \G & \G & \G & \G & \G & \G & \G & \G & \G & \G & \G & \G & \G & \G & \G \\
     \hline
 
   \end{tabular}
@@ -100,4 +117,10 @@ pustaka dan alat perangkat lunak untuk membantu pengembang membuat aplikasi meng
   \label{tbl:timeline}
 \end{table}
 
-Pada \emph{timeline} yang tertera di Tabel \ref{tbl:timeline} \lipsum[10]
+Pada \emph{timeline} yang tertera di Tabel \ref{tbl:timeline}, terdapat 16 minggu pengerjaan penelitian, 
+mulai dari satu bulan pertama ada Studi pustaka dengan Perancangan alat dan Pengambilan data, 
+bertujuan untuk mengkaji ulang sedikit literatur yang kurang sesuai pada Proposal Tugas Akhir dan mulai 
+merancang alat. dua bulan setelahnya adalah Pengolahan data dan Pembuatan model, serta Penerapan model dan 
+Penganalisaan hasil data yang diperoleh. Di empat bulan terakhir adalah penambahan sedikit fitur atau mengetahui 
+perbedaan antara dua buah obyek dengan substansi yang berbeda, jika ditemukan beberapa kesalahan dataset serta modeling 
+bisa dilakukan evaluasi secara cepat.

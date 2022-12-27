@@ -23,7 +23,7 @@
 \contentsline {section}{\numberline {3.2}Bahan dan peralatan yang digunakan}{9}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Mikrokontroller STM32}{9}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}IMU Sensor Module MPU-9255}{9}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Urutan pelaksanaan penelitian}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Urutan pelaksanaan penelitian}{10}{section.3.3}%
 \contentsline {chapter}{\numberline {4}HASIL YANG DIHARAPKAN}{11}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Hasil yang Diharapkan dari Penelitian}{11}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Hasil Pendahuluan}{11}{section.4.2}%
