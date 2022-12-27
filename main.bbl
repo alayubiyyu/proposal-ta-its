@@ -19,99 +19,606 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
-    \entry{Newton1687}{article}{}
+    \entry{Abidin2007}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c2827ae14feae073cd692358c06f386d}{%
-           family={{Newton}},
-           familyi={N\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod},
+        {{un=0,uniquepart=base,hash=3f479c6d1abca393e7e68ff2da5ea589}{%
+           family={Abidin},
+           familyi={A\bibinitperiod},
+           given={Hasanuddin\bibnamedelima Z},
+           giveni={H\bibinitperiod\bibinitdelim Z\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{c2827ae14feae073cd692358c06f386d}
-      \strng{fullhash}{c2827ae14feae073cd692358c06f386d}
-      \strng{bibnamehash}{c2827ae14feae073cd692358c06f386d}
-      \strng{authorbibnamehash}{c2827ae14feae073cd692358c06f386d}
-      \strng{authornamehash}{c2827ae14feae073cd692358c06f386d}
-      \strng{authorfullhash}{c2827ae14feae073cd692358c06f386d}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \strng{namehash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \strng{fullhash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \strng{bibnamehash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \strng{authorbibnamehash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \strng{authornamehash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \strng{authorfullhash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Philosophiæ Naturalis Principia Mathematica}
-      \field{title}{Axioms or Laws of Motion}
-      \field{year}{1687}
+      \field{journaltitle}{Jakarta: PT Pradnya Paramita}
+      \field{title}{Penentuan posisi dengan GPS dan aplikasinya}
+      \field{year}{2007}
     \endentry
-    \entry{SpaceXBlueprint}{misc}{}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+    \entry{Albawi2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a92a8d7d47ce475bde1f4d0c575e3415}{%
+           family={Albawi},
+           familyi={A\bibinitperiod},
+           given={Saad},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0c7df6171cf87ebe4270071829a7d26}{%
+           family={Mohammed},
+           familyi={M\bibinitperiod},
+           given={Tareq\bibnamedelima Abed},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2f9de2eb7b3ac9408b9e418ef2a1e39}{%
+           family={Al-Zawi},
+           familyi={A\bibinithyphendelim Z\bibinitperiod},
+           given={Saad},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Ieee}%
+      }
+      \strng{namehash}{a8f90775da450f48ca2cc0c936f55cce}
+      \strng{fullhash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{bibnamehash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{authorbibnamehash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{authornamehash}{a8f90775da450f48ca2cc0c936f55cce}
+      \strng{authorfullhash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Space X Blueprint}
-      \field{urlday}{26}
-      \field{urlmonth}{1}
+      \field{journaltitle}{2017 international conference on engineering and technology (ICET)}
+      \field{title}{Understanding of a convolutional neural network}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{Brossard2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=854a0b2b95cff4c82a5024e661a20e08}{%
+           family={Brossard},
+           familyi={B\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=053b4b9329c7d82cd9a45801fa98a71f}{%
+           family={Barrau},
+           familyi={B\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=926c6018a4af5dde7af6fa193467deb3}{%
+           family={Bonnabel},
+           familyi={B\bibinitperiod},
+           given={Silvère},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{77d7e122e3fdb8e6e00a42cd1f3ed4bc}
+      \strng{fullhash}{8bb3b44266d43d836ed8ec71645d51c4}
+      \strng{bibnamehash}{8bb3b44266d43d836ed8ec71645d51c4}
+      \strng{authorbibnamehash}{8bb3b44266d43d836ed8ec71645d51c4}
+      \strng{authornamehash}{77d7e122e3fdb8e6e00a42cd1f3ed4bc}
+      \strng{authorfullhash}{8bb3b44266d43d836ed8ec71645d51c4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Intelligent Vehicles}
+      \field{number}{4}
+      \field{title}{AI-IMU dead-reckoning}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{pages}{585\bibrangedash 595}
+      \range{pages}{11}
+    \endentry
+    \entry{Jin2011}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4c1ac1e9b0a63a1a80ed9980cd16ca99}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Yunye},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d6e1d8c0a866952054c2d7bb7c5f3c8}{%
+           family={Toh},
+           familyi={T\bibinitperiod},
+           given={Hong-Song},
+           giveni={H\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=110ab7e2301b4766dac6e6964805cbcb}{%
+           family={Soh},
+           familyi={S\bibinitperiod},
+           given={Wee-Seng},
+           giveni={W\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56d363af61824870c5ca7a063080c1f4}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Wai-Choong},
+           giveni={W\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9dfaf211bd099aa6ede27893beedc313}
+      \strng{fullhash}{943250be02cd12d3da2bda442c1de285}
+      \strng{bibnamehash}{943250be02cd12d3da2bda442c1de285}
+      \strng{authorbibnamehash}{943250be02cd12d3da2bda442c1de285}
+      \strng{authornamehash}{9dfaf211bd099aa6ede27893beedc313}
+      \strng{authorfullhash}{943250be02cd12d3da2bda442c1de285}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2011 IEEE International Conference on Pervasive Computing and Communications (PerCom)}
+      \field{title}{A robust dead-reckoning pedestrian tracking system with low cost sensors}
+      \field{year}{2011}
+      \field{pages}{222\bibrangedash 230}
+      \range{pages}{9}
+    \endentry
+    \entry{oxts2020-dr}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa1e712c16b2e9df8576bca9ea8fa030}{%
+           family={Ltd.},
+           familyi={L\bibinitperiod},
+           given={Oxford\bibnamedelimb Technical\bibnamedelima Solutions},
+           giveni={O\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \strng{fullhash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \strng{bibnamehash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \strng{authorbibnamehash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \strng{authornamehash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \strng{authorfullhash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Inertial navigation: dead reckoning}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
       \field{urlyear}{2021}
-      \field{year}{2021}
+      \field{year}{2020}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://id.pinterest.com/pin/344032859037191430/
+      \verb https://www.oxts.com/dead-reckoning/
       \endverb
       \verb{url}
-      \verb https://id.pinterest.com/pin/344032859037191430/
+      \verb https://www.oxts.com/dead-reckoning/
       \endverb
+    \endentry
+    \entry{Passaro2017}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b2a64e4417bd7d445b1f04bed4edead0}{%
+           family={Passaro},
+           familyi={P\bibinitperiod},
+           given={Vittorio\bibnamedelima MN},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22613bf58e6d1b40f227f34690e97cc9}{%
+           family={Cuccovillo},
+           familyi={C\bibinitperiod},
+           given={Antonello},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d9f18dd7a940ef47611bf13b596b0a1}{%
+           family={Vaiani},
+           familyi={V\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=022ad0a679d43593a39df539aebd1e1f}{%
+           family={De\bibnamedelima Carlo},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Martino},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3079d95633f894722afacc47ef12ff96}{%
+           family={Campanella},
+           familyi={C\bibinitperiod},
+           given={Carlo\bibnamedelima Edoardo},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{8b7b400c98a2eab3ce6f438d637865fa}
+      \strng{fullhash}{2a0772583a1f603fd45398c415d82a6e}
+      \strng{bibnamehash}{2a0772583a1f603fd45398c415d82a6e}
+      \strng{authorbibnamehash}{2a0772583a1f603fd45398c415d82a6e}
+      \strng{authornamehash}{8b7b400c98a2eab3ce6f438d637865fa}
+      \strng{authorfullhash}{2a0772583a1f603fd45398c415d82a6e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{10}
+      \field{title}{Gyroscope technology and applications: A review in the industrial perspective}
+      \field{volume}{17}
+      \field{year}{2017}
+      \field{pages}{2284}
+      \range{pages}{1}
+    \endentry
+    \entry{Randell2003}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=340fafd8e436aa8312c9d2ac1da230c3}{%
+           family={Randell},
+           familyi={R\bibinitperiod},
+           given={Cliff},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28582c80aefbfff60425947cadfde2be}{%
+           family={Djiallis},
+           familyi={D\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa38a55c244e28f4b792b65f5c569711}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={Henk},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE Computer Society}%
+      }
+      \strng{namehash}{547bb00a50c7f49f27cee849cbdfabbc}
+      \strng{fullhash}{003e55f022e984a4fe51ee9085c15c55}
+      \strng{bibnamehash}{003e55f022e984a4fe51ee9085c15c55}
+      \strng{authorbibnamehash}{003e55f022e984a4fe51ee9085c15c55}
+      \strng{authornamehash}{547bb00a50c7f49f27cee849cbdfabbc}
+      \strng{authorfullhash}{003e55f022e984a4fe51ee9085c15c55}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Seventh IEEE International Symposium on Wearable Computers, 2003. Proceedings.}
+      \field{title}{Personal position measurement using dead reckoning}
+      \field{year}{2003}
+      \field{pages}{166\bibrangedash 166}
+      \range{pages}{1}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
-    \entry{Newton1687}{article}{}
+    \entry{Abidin2007}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c2827ae14feae073cd692358c06f386d}{%
-           family={{Newton}},
-           familyi={N\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod},
+        {{un=0,uniquepart=base,hash=3f479c6d1abca393e7e68ff2da5ea589}{%
+           family={Abidin},
+           familyi={A\bibinitperiod},
+           given={Hasanuddin\bibnamedelima Z},
+           giveni={H\bibinitperiod\bibinitdelim Z\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{c2827ae14feae073cd692358c06f386d}
-      \strng{fullhash}{c2827ae14feae073cd692358c06f386d}
-      \strng{bibnamehash}{c2827ae14feae073cd692358c06f386d}
-      \strng{authorbibnamehash}{c2827ae14feae073cd692358c06f386d}
-      \strng{authornamehash}{c2827ae14feae073cd692358c06f386d}
-      \strng{authorfullhash}{c2827ae14feae073cd692358c06f386d}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \strng{namehash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \strng{fullhash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \strng{bibnamehash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \strng{authorbibnamehash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \strng{authornamehash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \strng{authorfullhash}{3f479c6d1abca393e7e68ff2da5ea589}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Philosophiæ Naturalis Principia Mathematica}
-      \field{title}{Axioms or Laws of Motion}
-      \field{year}{1687}
+      \field{journaltitle}{Jakarta: PT Pradnya Paramita}
+      \field{title}{Penentuan posisi dengan GPS dan aplikasinya}
+      \field{year}{2007}
     \endentry
-    \entry{SpaceXBlueprint}{misc}{}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+    \entry{Albawi2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a92a8d7d47ce475bde1f4d0c575e3415}{%
+           family={Albawi},
+           familyi={A\bibinitperiod},
+           given={Saad},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0c7df6171cf87ebe4270071829a7d26}{%
+           family={Mohammed},
+           familyi={M\bibinitperiod},
+           given={Tareq\bibnamedelima Abed},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2f9de2eb7b3ac9408b9e418ef2a1e39}{%
+           family={Al-Zawi},
+           familyi={A\bibinithyphendelim Z\bibinitperiod},
+           given={Saad},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Ieee}%
+      }
+      \strng{namehash}{a8f90775da450f48ca2cc0c936f55cce}
+      \strng{fullhash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{bibnamehash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{authorbibnamehash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{authornamehash}{a8f90775da450f48ca2cc0c936f55cce}
+      \strng{authorfullhash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Space X Blueprint}
-      \field{urlday}{26}
-      \field{urlmonth}{1}
+      \field{journaltitle}{2017 international conference on engineering and technology (ICET)}
+      \field{title}{Understanding of a convolutional neural network}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{Brossard2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=854a0b2b95cff4c82a5024e661a20e08}{%
+           family={Brossard},
+           familyi={B\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=053b4b9329c7d82cd9a45801fa98a71f}{%
+           family={Barrau},
+           familyi={B\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=926c6018a4af5dde7af6fa193467deb3}{%
+           family={Bonnabel},
+           familyi={B\bibinitperiod},
+           given={Silvère},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{77d7e122e3fdb8e6e00a42cd1f3ed4bc}
+      \strng{fullhash}{8bb3b44266d43d836ed8ec71645d51c4}
+      \strng{bibnamehash}{8bb3b44266d43d836ed8ec71645d51c4}
+      \strng{authorbibnamehash}{8bb3b44266d43d836ed8ec71645d51c4}
+      \strng{authornamehash}{77d7e122e3fdb8e6e00a42cd1f3ed4bc}
+      \strng{authorfullhash}{8bb3b44266d43d836ed8ec71645d51c4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Intelligent Vehicles}
+      \field{number}{4}
+      \field{title}{AI-IMU dead-reckoning}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{pages}{585\bibrangedash 595}
+      \range{pages}{11}
+    \endentry
+    \entry{Jin2011}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4c1ac1e9b0a63a1a80ed9980cd16ca99}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Yunye},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d6e1d8c0a866952054c2d7bb7c5f3c8}{%
+           family={Toh},
+           familyi={T\bibinitperiod},
+           given={Hong-Song},
+           giveni={H\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=110ab7e2301b4766dac6e6964805cbcb}{%
+           family={Soh},
+           familyi={S\bibinitperiod},
+           given={Wee-Seng},
+           giveni={W\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56d363af61824870c5ca7a063080c1f4}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Wai-Choong},
+           giveni={W\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9dfaf211bd099aa6ede27893beedc313}
+      \strng{fullhash}{943250be02cd12d3da2bda442c1de285}
+      \strng{bibnamehash}{943250be02cd12d3da2bda442c1de285}
+      \strng{authorbibnamehash}{943250be02cd12d3da2bda442c1de285}
+      \strng{authornamehash}{9dfaf211bd099aa6ede27893beedc313}
+      \strng{authorfullhash}{943250be02cd12d3da2bda442c1de285}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2011 IEEE International Conference on Pervasive Computing and Communications (PerCom)}
+      \field{title}{A robust dead-reckoning pedestrian tracking system with low cost sensors}
+      \field{year}{2011}
+      \field{pages}{222\bibrangedash 230}
+      \range{pages}{9}
+    \endentry
+    \entry{oxts2020-dr}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa1e712c16b2e9df8576bca9ea8fa030}{%
+           family={Ltd.},
+           familyi={L\bibinitperiod},
+           given={Oxford\bibnamedelimb Technical\bibnamedelima Solutions},
+           giveni={O\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \strng{fullhash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \strng{bibnamehash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \strng{authorbibnamehash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \strng{authornamehash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \strng{authorfullhash}{aa1e712c16b2e9df8576bca9ea8fa030}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Inertial navigation: dead reckoning}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
       \field{urlyear}{2021}
-      \field{year}{2021}
+      \field{year}{2020}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://id.pinterest.com/pin/344032859037191430/
+      \verb https://www.oxts.com/dead-reckoning/
       \endverb
       \verb{url}
-      \verb https://id.pinterest.com/pin/344032859037191430/
+      \verb https://www.oxts.com/dead-reckoning/
       \endverb
     \endentry
+    \entry{Passaro2017}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b2a64e4417bd7d445b1f04bed4edead0}{%
+           family={Passaro},
+           familyi={P\bibinitperiod},
+           given={Vittorio\bibnamedelima MN},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22613bf58e6d1b40f227f34690e97cc9}{%
+           family={Cuccovillo},
+           familyi={C\bibinitperiod},
+           given={Antonello},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d9f18dd7a940ef47611bf13b596b0a1}{%
+           family={Vaiani},
+           familyi={V\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=022ad0a679d43593a39df539aebd1e1f}{%
+           family={De\bibnamedelima Carlo},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Martino},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3079d95633f894722afacc47ef12ff96}{%
+           family={Campanella},
+           familyi={C\bibinitperiod},
+           given={Carlo\bibnamedelima Edoardo},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{8b7b400c98a2eab3ce6f438d637865fa}
+      \strng{fullhash}{2a0772583a1f603fd45398c415d82a6e}
+      \strng{bibnamehash}{2a0772583a1f603fd45398c415d82a6e}
+      \strng{authorbibnamehash}{2a0772583a1f603fd45398c415d82a6e}
+      \strng{authornamehash}{8b7b400c98a2eab3ce6f438d637865fa}
+      \strng{authorfullhash}{2a0772583a1f603fd45398c415d82a6e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{10}
+      \field{title}{Gyroscope technology and applications: A review in the industrial perspective}
+      \field{volume}{17}
+      \field{year}{2017}
+      \field{pages}{2284}
+      \range{pages}{1}
+    \endentry
+    \entry{Randell2003}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=340fafd8e436aa8312c9d2ac1da230c3}{%
+           family={Randell},
+           familyi={R\bibinitperiod},
+           given={Cliff},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28582c80aefbfff60425947cadfde2be}{%
+           family={Djiallis},
+           familyi={D\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa38a55c244e28f4b792b65f5c569711}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={Henk},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE Computer Society}%
+      }
+      \strng{namehash}{547bb00a50c7f49f27cee849cbdfabbc}
+      \strng{fullhash}{003e55f022e984a4fe51ee9085c15c55}
+      \strng{bibnamehash}{003e55f022e984a4fe51ee9085c15c55}
+      \strng{authorbibnamehash}{003e55f022e984a4fe51ee9085c15c55}
+      \strng{authornamehash}{547bb00a50c7f49f27cee849cbdfabbc}
+      \strng{authorfullhash}{003e55f022e984a4fe51ee9085c15c55}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Seventh IEEE International Symposium on Wearable Computers, 2003. Proceedings.}
+      \field{title}{Personal position measurement using dead reckoning}
+      \field{year}{2003}
+      \field{pages}{166\bibrangedash 166}
+      \range{pages}{1}
+    \endentry
   \enddatalist
+  \missing{SpaceXBlueprint}
 \endrefsection
 \endinput
 

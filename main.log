@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.23)  27 DEC 2022 10:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.23)  27 DEC 2022 15:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -878,7 +878,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+ (./main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                SpaceXBlueprint
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 100.
 Package biblatex Info: Reference segment=0 on input line 100.
  (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -958,7 +966,7 @@ LaTeX Font Info:    Font shape `OT1/txss/b/sl' will be
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
 (Font)              scaled to size 13.67995pt on input line 22.
 )
-<sampul/gambar/sampul-luar-tipis.png, id=93, 2107.875pt x 2981.1375pt>
+<sampul/gambar/sampul-luar-tipis.png, id=113, 2107.875pt x 2981.1375pt>
 File: sampul/gambar/sampul-luar-tipis.png Graphic file (type png)
 <use sampul/gambar/sampul-luar-tipis.png>
 Package pdftex.def Info: sampul/gambar/sampul-luar-tipis.png  used on input line 38.
@@ -1042,43 +1050,74 @@ Chapter 1.
 
 ]) [2] (./konten/2-tinjauan-pustaka.tex
 Chapter 2.
-) [3
 
-] (./konten/3-metodologi.tex
+Overfull \hbox (0.62392pt too wide) in paragraph at lines 19--29
+\OT1/txr/m/n/12 gadap-tasi pa-ram-e-ter fil-ter Kalman. Kami telah me-nun-jukkan fakta-fakta berikut. Dimungkinkan
+ []
+
+[3
+
+]
+<gambar/Dead-reckoning-INS.png, id=223, 773.89125pt x 651.93562pt>
+File: gambar/Dead-reckoning-INS.png Graphic file (type png)
+<use gambar/Dead-reckoning-INS.png>
+Package pdftex.def Info: gambar/Dead-reckoning-INS.png  used on input line 45.
+(pdftex.def)             Requested size: 348.24785pt x 293.36832pt.
+
+Overfull \hbox (4.39493pt too wide) in paragraph at lines 54--61
+[]\OT1/txr/m/n/12 Jaringan saraf con-vo-lu-tional (CNN) adalah je-nis jaringan saraf tiruan yang di-ran-cang khusus
+ []
+
+[4 <./gambar/Dead-reckoning-INS.png>]
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 86.
+ (c:/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+) [5]
+Overfull \hbox (5.96394pt too wide) in paragraph at lines 100--108
+\OT1/txr/m/n/12 Ada be-ber-apa je-nis mag-ne-tome-ter, ter-ma-suk flux-gate, efek hall, dan mag-ne-tome-ter yang dipompa
+ []
+
+[6]) [7] (./konten/3-metodologi.tex
 Chapter 3.
-<gambar/blueprint.jpg, id=196, 614.295pt x 438.6789pt>
+<gambar/blueprint.jpg, id=249, 614.295pt x 438.6789pt>
 File: gambar/blueprint.jpg Graphic file (type jpg)
 <use gambar/blueprint.jpg>
 Package pdftex.def Info: gambar/blueprint.jpg  used on input line 12.
 (pdftex.def)             Requested size: 276.43019pt x 197.40367pt.
-[4
 
- <./gambar/blueprint.jpg>]) [5] (./konten/4-lainnya.tex
+LaTeX Warning: Citation 'SpaceXBlueprint' on page 8 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'SpaceXBlueprint' on page 8 undefined on input line 14.
+
+[8
+
+ <./gambar/blueprint.jpg>]) [9] (./konten/4-lainnya.tex
 Chapter 4.
-) [6
+) [10
 
-] [7
+] [11
 
 ] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4F85631BD48C3EB8DDDA819DEA83D590;3709.
+(rerunfilecheck)             Checksum: E43E7422BF84A843BB5434E04DEDB3B3;4990.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22494 strings out of 476093
- 392759 string characters out of 5795582
+ 22584 strings out of 476093
+ 394722 string characters out of 5795582
  1867787 words of memory out of 5000000
- 42466 multiletter control sequences out of 15000+600000
- 556029 words of font info for 120 fonts, out of 8000000 for 9000
+ 42537 multiletter control sequences out of 15000+600000
+ 555272 words of font info for 119 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  72i,12n,77p,1185b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txex.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (17 pages, 300030 bytes).
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (21 pages, 544743 bytes).
 PDF statistics:
- 284 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
- 42 named destinations out of 1000 (max. 500000)
- 195 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 330 PDF objects out of 1000 (max. 8388607)
+ 279 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 240 words of extra memory for PDF output out of 10000 (max. 10000000)
 
